@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bem-vindo a Music School</title>
+</head>
+
+<body>
+    
+    <table width="550px" height="100px" style="text-align: center;">
+        <tr>
+            <th><img src="imagens/logo.png" width="100px" height="100px" alt="logomarca" ></th>
+            <th> <a id="Inicio" href="inicio.html" >Inicio</a></th>
+            <th> <a id="inscricao" href="inscricao.html" >Inscrição</a></th>
+            <th> <a id="horario" href="horario.html">Horários</a></th>
+            <th> <a id="contato" href="contato.html">Contato</a></th>
+
+        </tr>
+    </table>
+<h1>Bem-vindo à Escola de Música Harmonia®</h1>
+
+<p>Aprenda música com os melhores profissionais e em um ambiente acolhedor.</p>
+<p>Nossos diferenciais</p>
+    <ul>
+        <li>Professores qualificados</li>
+        <li>Aulas Práticas</li>
+        <li>Material didático próprio</li>
+    </ul>
+
+<h2>Sobre a Escola</h2>
+
+<p>Nossa escola oferece cursos de diversos intrumentos com turmas reduzidas.</p>
+<img src="imagens/instrumentos.jpg" alt="A imagem ilustra os instrumentos musicais da escola" width="250px" height="250px">
+<p>Quatro acordes básicos de violão</p>
+
+<video src="videos/acordes_violao.mp4" controls width="250px" height="250px"></video>
+<br>
+
+<a>Conheça também o site da</a> 
+<a href="https://br.yamaha.com/pt" id="yamaha">Yamaha</a>
+<p><a href="#inicio">Voltar para o Início</a></p>
+<br>
+</body>
+</html>

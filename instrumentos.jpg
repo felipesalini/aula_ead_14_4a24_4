@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horários</title>
+</head>
+<body>
+    <table width="550px" height="100px" style="text-align: center;">
+        <tr>
+            <th><img src="imagens/logo.png" width="100px" height="100px" ></th>
+            <th> <a id="inicio" href="index.html" >Inicio</a></th>
+            <th> <a id="inscricao" href="inscricao.html" >Inscrição</a></th>
+            <th> <a id="horario" href="horario.html">Horários</a></th>
+            <th> <a id="contato" href="contato.html">Contato</a></th>
+
+        </tr>
+    </table>
+    <h1>Grade de Horários</h1>
+      <title>Horários 2025</title>
+  <style>
+  </style>
+</head>
+<body>
+
+  <h1>Horários para 2025</h1>
+
+  <table border="1" style="text-align: center;">
+    <tr>
+      <th>Curso</th>
+      <th>Segunda</th>
+      <th>Quarta</th>
+      <th>Sexta</th>
+      <th>Sábado</th>
+    </tr>
+
+    <tr>
+      <td>Violão</td>
+      <td>08:00 - 10:00
+        <br>16:00 - 18:00</td>
+      <td>08:00 - 10:00
+        <br>19:00 - 21:00</td>
+      <td>08:00 - 10:00
+        <br>21:00 - 22:00</td>
+        <td rowspan="3">Reservar Horário</td>
+      </td>
+    </tr>
+
+    <tr>
+      <td>Piano</td>
+      <td>10:00 - 12:00</td>
+      <td>10:00 - 12:00</td>
+      <td>10:00 - 12:00</td>
+      
+    </tr>
+
+    <tr>
+      <td>Bateria</td>
+      <td>14:00 - 16:00</td>
+      <td>14:00 - 16:00</td>
+      <td>14:00 - 16:00</td>
+    </tr>
+  </table>
+
+
+</body>
+</html>
